@@ -1,6 +1,7 @@
 ## Hi there 👋
+My name is Marko and I am iOS developer 
 
-- 🔭 I’m currently working on large commercial projects using SwiftUI
+- 🔭 I’m currently working on large commercial projects using SwiftUI and CLEAN
 - 🌱 I’m currently learning Combine 
 - 📫 How to reach me: https://www.linkedin.com/in/marko-sentivanac/
 
