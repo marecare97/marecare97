@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on large commercial projects using SwiftUI
+- 🌱 I’m currently learning Combine 
+- 📫 How to reach me: https://www.linkedin.com/in/marko-sentivanac/
+
 <!--
 **marecare97/marecare97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
