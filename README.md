@@ -2,7 +2,7 @@
 My name is Marko and I am an iOS developer 
 
 - 🔭 I’m currently working on large commercial projects using SwiftUI and CLEAN
-- 🌱 I’m currently learning Combine and exploring SwiftUI's navigation
+- 🌱 I’m currently exploring SwiftUI's navigation and Async/Await
 - 📫 How to reach me: https://www.linkedin.com/in/marko-sentivanac
 
 <!--
